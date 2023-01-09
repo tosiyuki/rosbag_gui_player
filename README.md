@@ -9,13 +9,13 @@ Clone This package to YourWorkspace.
 
 ## 2. Run the script
 ### Terminal1
-> cd ~/YourWorkspace
-> source devel/setup.bash
+> cd ~/YourWorkspace  
+> source devel/setup.bash  
 > roscore
 
 ### Terminal2
-> cd ~/YourWorkspace
-> source devel/setup.bash
+> cd ~/YourWorkspace  
+> source devel/setup.bash  
 > python3 src/MainWindow.py
 
 ## 3. Select a bag file which you want to play
